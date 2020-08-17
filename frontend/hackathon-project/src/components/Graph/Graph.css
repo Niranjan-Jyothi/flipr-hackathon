@@ -1,0 +1,36 @@
+.graph{
+    background-color: #e4e3e3;
+    margin-top: 1.25rem;
+}
+.graph > *{
+    margin: 2rem !important;
+}
+.graph__dropdown > *{
+    margin-top: 2rem !important;
+}
+.graph__dropdown{
+  display: inline !important;
+}
+.graph__dropdown > h2{
+    text-align: center;
+    font-style: initial;
+    text-decoration: underline;
+    color: #481380;
+}
+
+.graph__details___buttons > *{
+    margin: 0.3rem !important;
+    margin-top: 0rem !important;
+}
+.graph__details___info {
+    display: flex;
+}
+.graph__details___info > p{
+    margin-left: 1.25rem;
+    margin-top: 1rem;
+}
+.graph__details___info > h3{
+    margin-top: 0.9rem;
+    margin-left: 0.1rem;
+    color: #481380;
+}

@@ -1,0 +1,71 @@
+.middle__mainBlock__bottom> p{
+    display: flex;
+    font: bold;
+
+}
+.middle__mainBlock__top > h2{
+    margin-top: 1.5rem !important;
+    color: #481380;
+
+}
+.middle__mainBlock__top__curr > h1{
+    /* margin-top: 2rem;
+    margin-left: 1.5rem; */
+    color: black;
+}
+.middle{
+    background-color: #e4e3e3;
+    margin-top: 1.25rem;
+}
+.middle_container{
+    padding: 2rem;
+}
+.middle__mainBlock__top__curr{
+    margin-top: 2rem;
+    /* margin-left: 1.5rem; */
+    color: black;
+    margin-bottom: 1.5rem;
+}
+.middle__mainBlock__top__curr > h4, .middle__mainBlock__top__curr>p{
+    margin-left: 0.5rem;
+}
+
+.green{
+    color: lightgreen;
+}
+.red{
+    color: maroon;
+}
+.overview{
+    margin-bottom: 1.7rem;
+    text-decoration: underline;
+}
+.middle__mainBlock__bottom{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mddleC1{
+    margin-top: 1rem;
+    /* display: flex; */
+}
+.mywrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mywrapper > p{
+    margin-left: 1.25rem;
+    margin-top: 1rem;
+}
+.mywrapper > h5{
+    margin-top: 0.9rem;
+    margin-left: 0.1rem;
+    color: #481380;
+}
+
+@media (max-width : 990px){
+    .middle__mainBlock__bottom{
+      flex-direction: column;
+      
+    }
+  }

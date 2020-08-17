@@ -1,0 +1,29 @@
+.header{
+    background-color: #131921;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo{
+    width :100px;
+    margin-top: 0.7rem;
+    margin-left: 0.7rem;
+}
+.header__callIcon{
+    background-color: lightblue;
+}
+.header__whatsappIcon{
+    background-color: lightgreen;
+}
+.header__heading{
+    color: white;
+    margin-top: 2rem 
+}
+.header__link{
+    padding-top: 2rem;
+    margin-right: 4rem;
+   
+}
+.headr__logout{
+    color: whitesmoke;
+}

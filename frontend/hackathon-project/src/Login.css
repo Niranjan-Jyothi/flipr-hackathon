@@ -1,0 +1,38 @@
+.login{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: 20rem;
+    
+}
+h1{
+    margin-left: 0.5rem;
+    color: lightskyblue;
+}
+
+.login__form{
+   
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    
+}
+.login__form > * {
+    margin: 8px !important; 
+}
+
+
+.login__newuser{
+    margin-top: 3rem;
+    display: flex;
+}
+.login__newuser > span{
+  
+    font-weight: lighter;
+    margin-left: 0.25rem;
+   
+}
+button{
+    cursor: pointer;
+}

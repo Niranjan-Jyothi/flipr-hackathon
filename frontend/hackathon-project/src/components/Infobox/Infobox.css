@@ -1,0 +1,28 @@
+.infoBox{
+    /* flex: 1; */
+    /* cursor: pointer; */
+    border-top: 10px solid #481380;
+    /* border-bottom: 10px solid grey; */
+}
+.infoBox:not(:last-child){
+    margin-right: 15px;
+}
+
+.infoBox__close{
+    /* color: #cc1034; */
+    
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.infoBox__prev_close{
+    color: #6c757d;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+}
+
+.infoBox__title{
+    margin-top: 0.25rem !important;
+}
