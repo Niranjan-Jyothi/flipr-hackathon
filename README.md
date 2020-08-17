@@ -3,7 +3,7 @@
 - Clone to your local Repo 
 
 # BACKEND
-- in console
+- opem temianl at root dir
 -  1) $ cd backend                             --- goto the backend working dir
 -  2) $ virtualenv venv                        --- setup a virtual env of your choice
  - 3) $ source venv/Scripts/Activate           --- activating virtualenv 
@@ -11,8 +11,8 @@
  - 4) pip3 install -r requirements.txt         --- install the python packages required for the backend api to run
  - 5) python3 backend.py                       --- run the backend app 
  - ;
-  -- Now the backend  app woukd be running locally on port 5000 
-  -- the backend api send data to frontend acting as a database api system
+ - -- Now the backend  app woukd be running locally on port 5000 
+ - -- the backend api send data to frontend acting as a database api system
   
   # FRONTEND  (after running backend)
   goto main directory(flipr-hackathon/)
