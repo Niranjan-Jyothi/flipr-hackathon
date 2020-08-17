@@ -10,7 +10,7 @@
   -  ** iF you are using linux, then step 3) $ source venv/bin/Activate
  - 4) pip3 install -r requirements.txt         --- install the python packages required for the backend api to run
  - 5) python3 backend.py                       --- run the backend app 
- - ;
+ 
  - -- Now the backend  app woukd be running locally on port 5000 
  - -- the backend api send data to frontend acting as a database api system
   
