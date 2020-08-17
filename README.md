@@ -3,7 +3,7 @@
 - Clone to your local Repo 
 
 # BACKEND
-- opem temianl at root dir
+- opem teminal at root dir
 -  1) $ cd backend                             --- goto the backend working dir
 -  2) $ virtualenv venv                        --- setup a virtual env of your choice
  - 3) $ source venv/Scripts/Activate           --- activating virtualenv 
@@ -15,9 +15,9 @@
  - -- the backend api send data to frontend acting as a database api system
   
   # FRONTEND  (after running backend)
-  goto main directory(flipr-hackathon/)
-  in console,;
-    1)$ cd frontend/hackathon-project/        --- goto the frontend working dir
-    2)$ npm install                           --- install the required dependies
-    3)$ npm start                              --- RUN the App locally
+  - goto main directory(flipr-hackathon/)
+  -opem teminal at root dir
+  -  1)$ cd frontend/hackathon-project/        --- goto the frontend working dir
+  -  2)$ npm install                           --- install the required dependies
+  -  3)$ npm start                              --- RUN the App locally
     
